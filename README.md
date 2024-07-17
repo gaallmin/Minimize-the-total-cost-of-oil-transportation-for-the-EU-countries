@@ -1,6 +1,7 @@
 # Minimize-the-total-cost-of-oil-transportation-for-the-EU-countries
+ **Author: Felix Grandner, Min Jegal**
+ 
  Our project aims to minimize the total cost of oil transportation for EU countries, factoring in economic and environmental considerations. We sourced population and oil production data from Wikipedia and created a distance matrix using the geocoordinates of capital cities.
- **Conducted By:** Felix Grandner, Min Jegal
 
 ## Introduction
 
